@@ -1,5 +1,3 @@
 #contributors list
--uma
--devi
--ajith
--abjith
+uma
+devi
